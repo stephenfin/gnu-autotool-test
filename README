@@ -1,0 +1,17 @@
+# gnu-autotool-test
+
+## Introduction
+
+Demonstration of AutoTools integration in a C project.
+
+This is expanded on the example GNU project found here:
+
+    www.gnu.org/software/automake/manual/html_node/Creating-amhello.html
+
+## Building
+
+Execute the following commands:
+
+    ./autogen.sh
+    ./configure
+    make
